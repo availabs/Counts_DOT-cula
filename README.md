@@ -5,7 +5,7 @@ npm install
 node index.js
 ```
 
-goto `http://localhost:4000/traffic_data/graphiql`
+http://localhost:4000/traffic_data/graphiql
 
 ``` graphql
 {
